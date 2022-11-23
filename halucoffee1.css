@@ -159,10 +159,10 @@ ul.main-menu {
     padding: 30px;
 }
 .text h3{
-    color: #fff;
+    color:#fff;
     font-size: 30px;
     font-weight: 700;
-    margin-bottom: 16px;
+    margin-bottom: 60px;
 }
 .text button{
     background-color: transparent;
@@ -179,7 +179,6 @@ ul.main-menu {
 }
 
 .background{
-   
     background-repeat: no-repeat;
     height: 982px;
     width: auto;
@@ -309,7 +308,7 @@ ul.main-menu {
 }
 
 .pack-title  h3 a{
-    color: #333;
+    color:#333;
     font-size: 16px;
     font-weight: 700;
     margin-bottom: 8px;
