@@ -179,7 +179,7 @@ ul.main-menu {
 }
 
 .backgroun{
-    background-image: url('/IMG/bg-section.webp');
+    background-image: url('./IMG/bg-section.webp');
     background-repeat: no-repeat;
     height: 982px;
     width: auto;
